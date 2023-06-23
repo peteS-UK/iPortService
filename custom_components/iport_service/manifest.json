@@ -1,7 +1,7 @@
 {
   "domain": "iport_service",
   "name": "LightSymphony",
-  "codeowners": "peteS-UK",
+  "codeowners": ["peteS-UK"],
   "dependencies": [],
   "documentation": "https://github.com/peteS-UK/iPortService#readme/",
   "iot_class": "local_polling",
