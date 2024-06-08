@@ -1,5 +1,10 @@
 # LightSymphony iPort Service for Home Assistant
 
+## Archived
+
+This repo is archived and replaced by a full switch component at [iPort](https://github.com/peteS-UK/iport)
+
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
 This repo contains a Home Assistant integration for LightSymphony iPort contoller.  The report allows you to send simple UDP messages to areas on and off.
